@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="image/logo.jpg" alt="Logo" width="80" height="80">
+  <img src="image/gpt_logo.jpg" alt="Logo" width="300" height="300">
 
   <h1 align="center">MG 세대</h1>
 
@@ -14,8 +14,9 @@
     <br />
     GPT와 관련된 학습 정보를 익히고 GPT API 를 활용하여 실습 및 어플리케이션 구현을 목표로 학습하고 있습니다.
     <br />
-    
+    <br />
 </div>
+
 
 
 
