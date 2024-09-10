@@ -1,0 +1,9 @@
+# dotenv environment variable files
+.env
+
+# Dependency directories
+node_modules/
+
+
+# extra
+dalle_prompt_log.txt
